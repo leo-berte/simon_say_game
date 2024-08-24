@@ -1,4 +1,4 @@
-# simon_says_game
+# simon_say_game
 
 Try to build this simple but very funny game by yourself.
 If you want to move your first steps into the amazing world of engineering, this project is made for you!
